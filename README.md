@@ -67,10 +67,10 @@
 
 ## 📈 GitHub Stats
 
-![AbdullahQ-AI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahQ-AI&show_icons=true&hide_border=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahQ-AI&hide=html,css&layout=compact&theme=radical)  
-
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2-green?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-1.25-lightgrey?style=for-the-badge&logo=numpy)
 ---
 
 ## 🚀 About Me
