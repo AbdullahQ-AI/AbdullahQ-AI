@@ -61,16 +61,7 @@
   [Folder](https://github.com/AbdullahQ-AI/ML-Data-Science-projects/tree/main/Task9-CNN-CIFAR10)  
   _CNN for CIFAR-10 with data augmentation & feature maps_  
 
-> ⚠️ Task 6 will be added soon.
 
----
-
-## 📈 GitHub Stats
-
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.2-green?style=for-the-badge&logo=scikit-learn)
-![NumPy](https://img.shields.io/badge/NumPy-1.25-lightgrey?style=for-the-badge&logo=numpy)
 ---
 
 ## 🚀 About Me
