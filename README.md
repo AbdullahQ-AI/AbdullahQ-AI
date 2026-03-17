@@ -96,15 +96,3 @@
 </div>
 ```
 
----
-
-## GitHub Profile README Kaise Lagao:
-```
-1. github.com/AbdullahQ-AI pe jao
-2. New repository banao
-3. Name: AbdullahQ-AI  ← exact username likhna hai!
-4. Public select karo
-5. "Add README" check karo ✅
-6. Create repository
-7. README.md edit karo → yeh content paste karo
-8. Commit changes!
